@@ -1,4 +1,4 @@
-# California-Housing-Data-Analysis-and-Prediction-Project
+# California Housing Data Exploration and Prediction Modeling Project
 
 **The full project can be viewed in the "California_Housing_Data_Analysis_and_Prediction_Project.ipynb" file**
 
